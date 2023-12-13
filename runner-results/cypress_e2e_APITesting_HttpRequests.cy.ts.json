@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 6,
+  "passes": 6,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-11-13T04:26:15.932Z",
+  "duration": 3006,
+  "file": "cypress/e2e/APITesting/HttpRequests.cy.ts"
+}

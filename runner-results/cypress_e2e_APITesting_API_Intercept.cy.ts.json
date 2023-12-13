@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 3,
+  "passes": 3,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-11-13T04:26:04.483Z",
+  "duration": 8265,
+  "file": "cypress/e2e/APITesting/API_Intercept.cy.ts"
+}

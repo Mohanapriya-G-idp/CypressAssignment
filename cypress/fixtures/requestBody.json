@@ -1,0 +1,6 @@
+{
+    "userId": 1,
+    "id": 101,
+    "title": "Post Test Demo",
+    "body": "This is a post call for demo purpose for cypress API testing"
+}

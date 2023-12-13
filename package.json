@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "cypress": "^13.3.3",
+    "cypress-parallel": "^0.13.0",
+    "cypress-plugin-api": "^2.11.1",
+    "typescript": "^5.2.2"
+  },
+  "name": "amazon_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --headed",
+    "debug": "npx cypress open",
+    "test-custom": "cypress open --config-file custCypress.config.ts",
+    "cy:parallel": "cypress-parallel -d cypress/e2e/APITesting -t 2 -s test "
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "@types/xml2js": "^0.4.14",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "cypress-mochawesome-reporter": "^3.6.1",
+    "cypress-multi-reporters": "^1.6.4",
+    "cypress-wait-until": "^2.0.1",
+    "cypress-xpath": "^2.0.1",
+    "mocha-junit-reporter": "^2.2.1"
+  }
+}

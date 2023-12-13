@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 6,
+  "passes": 6,
+  "pending": 0,
+  "failures": 0,
+  "start": "2023-11-13T04:26:03.355Z",
+  "duration": 3457,
+  "file": "cypress/e2e/APITesting/API_Plugin.cy.ts"
+}

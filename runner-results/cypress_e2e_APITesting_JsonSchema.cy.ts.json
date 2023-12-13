@@ -1,0 +1,10 @@
+{
+  "suites": 0,
+  "tests": 1,
+  "passes": 0,
+  "pending": 0,
+  "failures": 1,
+  "start": "2023-11-13T04:26:22.675Z",
+  "duration": 455,
+  "file": "cypress/e2e/APITesting/JsonSchema.cy.ts"
+}

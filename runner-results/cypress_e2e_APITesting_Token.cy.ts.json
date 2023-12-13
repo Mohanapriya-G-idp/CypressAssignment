@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 0,
+  "pending": 0,
+  "failures": 1,
+  "start": "2023-11-13T04:26:16.607Z",
+  "duration": 4532,
+  "file": "cypress/e2e/APITesting/Token.cy.ts"
+}
